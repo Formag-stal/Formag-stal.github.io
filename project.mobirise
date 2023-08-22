@@ -63,7 +63,8 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-JPSVX4FFTV\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-JPSVX4FFTV');\n</script>",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
